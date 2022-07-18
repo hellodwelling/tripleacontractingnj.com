@@ -2,3 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://tripleacontractingnj.com/index</loc>
+        <lastmod>2022-07-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tripleacontractingnj.com/store</loc>
+        <lastmod>2022-07-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tripleacontractingnj.com/reviews</loc>
+        <lastmod>2022-07-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tripleacontractingnj.com/gallery-All</loc>
+        <lastmod>2022-07-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tripleacontractingnj.com/gallery-Kitchens</loc>
+        <lastmod>2022-07-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tripleacontractingnj.com/gallery-Basements</loc>
+        <lastmod>2022-07-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tripleacontractingnj.com/gallery-Roofs</loc>
+        <lastmod>2022-07-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tripleacontractingnj.com/gallery-Decks-Patios</loc>
+        <lastmod>2022-07-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tripleacontractingnj.com/gallery-Bathrooms</loc>
+        <lastmod>2022-07-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tripleacontractingnj.com/service-New-Construction</loc>
+        <lastmod>2022-07-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tripleacontractingnj.com/service-Kitchen-Renovation</loc>
+        <lastmod>2022-07-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tripleacontractingnj.com/service-Deck-&-Patio-Installation</loc>
+        <lastmod>2022-07-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://tripleacontractingnj.com/service-Roofing</loc>
+        <lastmod>2022-07-17</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
